@@ -109,53 +109,35 @@
       </div>
     </div>
 
-    <div class="site-section" id="programs-section">
-      <div class="container">
-        <div class="row mb-5 justify-content-center">
-          <div class="col-lg-7 text-center"  data-aos="fade-up" data-aos-delay="">
-            <h2 class="section-title">Our Programs</h2>
-            <p>This website was created to help people<br> who wanted to get a job in the data field.</p>
-          </div>
-        </div>
-        <div class="row mb-5 align-items-center">
-          <div class="col-lg-7 mb-5" id = "image" data-aos="fade-up" data-aos-delay="100">
-            <img src="FormFolder/images/undraw_youtube_tutorial.svg" alt="Image" class="img-fluid">
-          </div>
-         
-        </div>
-      </div>
-    </div>
-
-    <div class="site-section" id="contact-section">
+     <div class="site-section" id="contact-section">
       <div class="container">
 
         <div class="row mb-5 justify-content-center">
           <div class="col-lg-7 mb-5 text-center"  data-aos="fade-up" data-aos-delay="">
             <h2 class="section-title">Our Contact</h2>
-            <p class="mb-5">Come to we are GitHub !</p>
+            <p class="mb-5">Come with us !</p>
           </div>
         </div>
 
         <div class="row">
         
-          <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="300">
             <div class="teacher text-center">
-              <img src="FormFolder/images/jonsung.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4" >
+              <img src="images/cat22.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
               <div class="py-2">
-                <h3 class="text-black">Jongsung Kim</h3>
-                <p class="position">Pull Stack Developer</p>
-                <a href = "https://github.com/SEJSCloud">GitHub Go (Click to Text)</a>
+                <h3 class="text-black">Eunna Yoo</h3>
+                <p class="position">Pull Stack Developer<br>dmssk6788@gmail.com</p>
+                <a href = "https://github.com/EunnaYoo">Go to GitHub (Click to Text)</a>
               </div>
             </div>
           </div>
-
-          <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="200">
             <div class="teacher text-center">
-              <img src="FormFolder/images/cat22.jpg" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4">
+              <img src="images/logo_sos.png" alt="Image" class="img-fluid w-50 rounded-circle mx-auto mb-4" >
               <div class="py-2">
-                <h3 class="text-black">Eunna Yoo</h3>
-                <p class="position">Pull Stack Developer</p>
-                <a href = "https://github.com/EunnaYoo">GitHub Go (Click to Text)</a>
+                <h3 class="text-black">S.O.S Networks</h3>
+                <p class="position">Data Specialist Community <br>ibutu@naver.com</p>
+                <a href = "https://cafe.naver.com/sqlpd">Go to Cafe (Click to Text)</a>
               </div>
             </div>
           </div>

@@ -28,7 +28,10 @@
       <a href="#" class="w3-bar-item w3-button">DASP(준비중)</a>
     </div>
     <a href="${pageContext.request.contextPath}/data?command=news&value=1" class="w3-bar-item w3-button"><font color = "#000000">News</font></a>
+    
+  	<a href="${pageContext.request.contextPath}/app.jsp" class="w3-bar-item w3-button"><font color = "#000000">App(베타버전)</font></a>
   </div>
+  
   
   <div>
   <a onclick="footer()" href="javascript:void(0)" class="w3-button w3-block w3-white w3-left-align" id="myBtn">
@@ -43,5 +46,5 @@
 		  </a>
       </div>
   </div>
-  <a href="#footer"  class="w3-bar-item w3-button w3-padding">Subscribe</a>
+  <a href="#footer"  class="w3-bar-item w3-button w3-padding">Subscribe(준비중)</a>
 </nav>

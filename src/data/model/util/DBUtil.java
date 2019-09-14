@@ -16,7 +16,7 @@ public class DBUtil {
 	}
 
 	public static Connection getConnection() throws SQLException {
-		return DriverManager.getConnection("jdbc:oracle:thin:@127.0.0.1:1521:xe", "webproject", "1234");
+		return DriverManager.getConnection("jdbc:oracle:thin:@lss-oracle-db.cbjfpgaunkuj.ap-northeast-2.rds.amazonaws.com:1521:lss", "yen", "yen20190913!");
 	}
 
 	// DML용

@@ -22,7 +22,7 @@ public class DataService {
 		boolean result = false;
 		try{
 			result = UserDAO.identifyJoin(id, pw);
-		}catch(SQLException s){
+		} catch(SQLException s) {
 			throw new MessageException("유효하지 않은 정보입니다");
 		}
 		return result;
