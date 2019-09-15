@@ -8,12 +8,11 @@
     * Wiki  
     
 2. Development configuration  
-    1) Web Server : Apache  
-    2) Web Application Server(WAS) : Tomcat  
-    3) Intro : Login + Sign up / Introduce this web / Go to Developer GitHub  
-    4) Licenses : ADsP / ADP / SQLD / SQLP / DAsP / DAP ( → UI 개선 )  
-    5) Exam Questions : Solving Questions / Exam Result ( → UI 개선 )  
-    6) News : Keyword("data")-related News ( → UI 개선 )  
+    * Web Server : AWS + Apache Tomcat  
+    * Intro : Login + Sign up / Introduce this web / Go to Developer GitHub  
+    * Licenses : ADsP / ADP / SQLD / SQLP / DAsP / DAP ( → UI 개선 )  
+    * Exam Questions : Solving Questions / Exam Result ( → UI 개선 )  
+    * News : Keyword("data")-related News ( → UI 개선 )  
     
 3. Skill Set  
     * Language : Java / JavaScript / HTML / CSS  
