@@ -1,7 +1,5 @@
 ## SQLD Study Web Project
-<Copyright 2019. S.O.S Networks & EunnaYoo. All rights reserved.>  
 - - - -
-  
 **[ 데이터베이스 전문가 포럼 카페 스터디 효율화를 위한 Web Application ]**  
    
 1. Take notes of study  
@@ -19,4 +17,6 @@
     * Library : Mavemn(Lombok, Jsoup) / JDBC  
     * Web Development : Servlet / JSP / Ajax  
     * Database : Oracle
+    
+***<Copyright 2019. S.O.S Networks & EunnaYoo. All rights reserved.>***
   
