@@ -14,7 +14,7 @@
     
 3. Skill Set  
     * Language : Java / JavaScript / HTML / CSS  
-    * Library : Mavemn(Lombok, Jsoup) / JDBC  
+    * Library : Maven(Lombok, Jsoup) / JDBC  
     * Web Development : Servlet / JSP / Ajax  
     * Database : Oracle
     
